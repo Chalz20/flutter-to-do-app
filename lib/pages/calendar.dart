@@ -94,7 +94,7 @@ class _CalendarState extends State<Calendar> {
                   ),
                   ),
                 ),
-                SizedBox(width: 16,),
+                SizedBox(width: 20,),
                 Expanded(
                   child: Container(
                     //height: 78,
@@ -187,7 +187,7 @@ class _CalendarState extends State<Calendar> {
                     ),
                   ),
                 ),
-                SizedBox(width: 16,),
+                SizedBox(width: 20,),
                 Expanded(
                   child: Container(
                     //height: 78,
